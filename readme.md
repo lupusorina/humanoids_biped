@@ -1,5 +1,6 @@
 ## Collection of Humanoid and Biped Robots
 
+<img src="mass_vs_actuators.png" alt="mass_vs_actuators" width="500"/>
 
 ---------------------------------
 
