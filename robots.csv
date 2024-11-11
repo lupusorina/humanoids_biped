@@ -1,0 +1,13 @@
+Name,Weight,N_actuators,References,Image
+Asimo, 48, 57, ,
+Atlas, 89, 28, ,atlas.jpg
+Digit, 42.2, 16, ,
+Cassie, 31, 10, ,
+Leonardo, 2.5, 10, ,
+HRP-5P, 101, 37, ,
+Talos, 95, 32, ,
+Toro, 76, 39, ,
+Valkyrie, 129, 44, ,
+Optimus,  73, 28, ,
+Bruce, 3.5, 10, ,
+Bolt,  1.34, 6, ,
